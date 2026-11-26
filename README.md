@@ -1,4 +1,4 @@
-# ⚒️ SystemPrompt AI
+# 💻 SystemPrompt AI
 
 SystemPrompt AI is a Python-based AI prompt engineering application powered by Google Gemini. It transforms simple user instructions into structured, professional prompts and generates intelligent responses using a two-stage AI workflow.
 
