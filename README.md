@@ -181,4 +181,4 @@ GitHub: https://github.com/ShaikNawazShareef
 
 ---
 
-⭐ If you find PromptForge AI useful, consider giving this repository a star!
+⭐ If you find SystemPrompt AI useful, consider giving this repository a star!
